@@ -19,7 +19,7 @@ I'm a grade 9 student at St. Mother Teresa High School, Ottawa, Canada. I just s
 
 <h2>✍ Programming Languages</h2>
 <p>
-  <a href="https://github.com/search?q=user%3AMr-Coxall+language%3Atypescript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?logo=TypeScript&logoColor=white"></a>
+  <a href="https://github.com/ella-an2?tab=repositories"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?logo=TypeScript&logoColor=white"></a>
   <a href="https://github.com/ella-an2?tab=repositories"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
 </p>
 
@@ -29,3 +29,6 @@ I'm a grade 9 student at St. Mother Teresa High School, Ottawa, Canada. I just s
   <a href="https://linux.org/"><img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=white" alt="Linux"></a>
   <a href="https://www.google.com/intl/en_ca/chromebook/chrome-os/"><img src="https://img.shields.io/badge/chrome%20os-3d89fc?logo=google%20chrome&logoColor=white" alt="ChromeOS"></a>
 </p>
+
+## 🔧 Tools
+  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
