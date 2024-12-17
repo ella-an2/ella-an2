@@ -36,6 +36,6 @@ I'm a grade 9 student at St. Mother Teresa High School, Ottawa, Canada. I just s
 
 ## 
 <div>
+  An example of my typescript code:
   <a href="https://github.com/ella-an2/TEJ2O-Unit-2-06B-ella-an2/blob/main/main.ts" target="_blank"><img src="https://media.giphy.com/media/Vuw9m5wXviFIQ/source.gif" width="280" height="auto" /></a>
-  <a href="https://github.com/ella-an2/TEJ2O-Unit-2-06B-ella-an2/blob/main/main.ts" target="_blank"><img src= "file:///C:/Users/kikiw/Downloads/Reminder!.png" width="280" height="auto" /></a>
 </div>
